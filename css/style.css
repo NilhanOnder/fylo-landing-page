@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit';
+}
+
+.container{ 
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.headerList{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+   
+    
+}
+
+.headerList li{
+    list-style: none;
+}
+
+.get-started{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.get-started-left{
+    width: 40%;
+}
+
+.get-started-left-heading{
+    margin-bottom: 20px;
+}
+
+.get-started-left-paragraph{
+    line-height: 25px;
+}
+
+.get-started-right{
+    width: 60%;
+     
+ }
+ 
+ .get-started-right img{
+    width: 100%;
+ }
+.form-input1 {
+    width: 100%;
+    max-width: 200px;
+ float: left;
+ margin-right: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
